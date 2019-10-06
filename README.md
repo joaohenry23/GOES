@@ -1,4 +1,4 @@
-# This README is still being edited and may have some errors.
+# This README file is a draft and may have some errors.
 
 # GOES
 Python packages to download and process data from GOES-16 and GOES-17.
@@ -238,16 +238,13 @@ You can install GOES on Python 2 or 3 on Linux, Windows or other, using the foll
 From PYPI using pip:
 ```
 pip install GOES
-
 ```
-\
 \
 From Github using clone.
 ```
 clone https://github.com/joaohenry23/GOES.git
 cd GOES
 python setup.py install
-
 ```
 \
 Or also from github downloading **GOES-master.zip** and following the next commands.
@@ -255,7 +252,6 @@ Or also from github downloading **GOES-master.zip** and following the next comma
 unzip GOES-master.zip
 cd GOES-master
 python setup.py install
-
 ```
 
 # Support
