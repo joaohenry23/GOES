@@ -39,8 +39,22 @@ unzip GOES-master.zip
 cd GOES-master
 python setup.py install
 ```
+<br>
 
+**Check if package was installed**
 
+```
+pip show GOES
+```
+<br>
+
+**Update to the latest version**
+
+```
+pip install --upgrade GOES
+```
+<br>
+<br>
 
 # Support
 If you have any questions, do not hesitate to write to:
@@ -48,6 +62,3 @@ If you have any questions, do not hesitate to write to:
 joaohenry23@gmail.com
 
 ```
-
-
-
