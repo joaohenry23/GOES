@@ -7,6 +7,8 @@ Cite the code: [![DOI](https://zenodo.org/badge/213261768.svg)](https://zenodo.o
 # Version
 3.2
 <br><br>
+If you have already installed the GOES package, check that you have the latest version.
+<br><br>
 
 # Requirements
 - [numpy](https://numpy.org/)
