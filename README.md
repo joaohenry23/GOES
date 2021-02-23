@@ -1,5 +1,7 @@
 # GOES
 Python packages to download and manipulate GOES-16/17 data.
+
+Cite the code: [![DOI](https://zenodo.org/badge/213261768.svg)](https://zenodo.org/badge/latestdoi/213261768)
 <br><br>
 
 # Version
