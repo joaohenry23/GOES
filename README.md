@@ -1,11 +1,11 @@
 # GOES
-[![pypi](https://img.shields.io/badge/pypi-v3.2-brightgreen.svg)](https://pypi.org/project/GOES/) [![DOI](https://zenodo.org/badge/213261768.svg)](https://zenodo.org/badge/latestdoi/213261768)
+[![pypi](https://img.shields.io/badge/pypi-v3.3-brightgreen.svg)](https://pypi.org/project/GOES/)
 
 Python packages to download and manipulate GOES-16/17 data.
 <br><br>
 
 # Version
-3.2
+3.3
 <br><br>
 If you have already installed the GOES package, check that you have the latest version.
 <br><br>
@@ -17,16 +17,17 @@ If you have already installed the GOES package, check that you have the latest v
 - [netCDF4](http://unidata.github.io/netcdf4-python/)
 - [requests](https://2.python-requests.org/en/master/)
 
+**Tip**: If you install the GOES package using pip, you don't need to worry about installing these packages because they will be installed automatically.
+<br><br>
 
 # Usage
 Find the jupyter notebook examples for the last version [here](https://github.com/joaohenry23/GOES/blob/master/examples/index.ipynb).
 <br><br>
 
-
 # Installation
 You can install **GOES** on Python 2 or 3 on Linux, Windows or other, using the following commands.
 <br><br>
-**Using PIP**:
+**Using PIP** (recommended):
 ```
 pip install GOES
 
@@ -65,12 +66,11 @@ python setup.py install
 ```
 <br><br>
 
-
 # Support
 If you have any questions, do not hesitate to write to:
 ```
 joaohenry23@gmail.com
 
 ```
-
+You can write to me in spanish, portuguese or english.
 
