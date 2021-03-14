@@ -1,5 +1,5 @@
 # GOES
-[![pypi](https://img.shields.io/badge/pypi-v3.3-brightgreen.svg)](https://pypi.org/project/GOES/)
+[![pypi](https://img.shields.io/badge/pypi-v3.3-brightgreen.svg)](https://pypi.org/project/GOES/) [![DOI](https://zenodo.org/badge/213261768.svg)](https://zenodo.org/badge/latestdoi/213261768)
 
 Python packages to download and manipulate GOES-16/17 data.
 <br><br>
