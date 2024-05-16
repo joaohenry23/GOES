@@ -1,11 +1,11 @@
 # GOES
-[![pypi](https://img.shields.io/badge/pypi%20-%203.4.1%20-%20dodgerblue)](https://pypi.org/project/GOES/) [![DOI](https://zenodo.org/badge/213261768.svg)](https://zenodo.org/doi/10.5281/zenodo.4556211)
+[![Static Badge](https://img.shields.io/badge/pypi-3.4.2-jade)](https://pypi.org/project/GOES/)
 
 Python package to download and manipulate GOES-16/17/18 data.
 <br><br>
 
 # Version
-3.4.1
+3.4.2
 <br><br>
 If you have already installed the GOES package, update it to the latest version.
 <br><br>
